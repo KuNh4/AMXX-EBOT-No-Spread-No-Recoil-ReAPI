@@ -1,4 +1,4 @@
-# AMXX EBOT No Spread No Recoil
+# AMXX EBOT No Spread No Recoil (ReAPI)
 This AMX Mod X plugin was made for E-BOT 1.07 LEGACY R12 but works for any bots.
 
 It makes bots to have laser accuracy when running and shooting zombies.
